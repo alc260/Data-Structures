@@ -10,7 +10,7 @@
 
 ### Sorting Algorithms 
 
-The following implement the IntSorter interface: 
+The following implement the IntSorter.java interface: 
 * InsertionSorter.java
 * SelectionSorter.java
 * MergeSorter.java
@@ -24,6 +24,15 @@ A hashCode method was implemented for the following:
 StudentHashSet.java: class is used for storing Student objects
 * This Hash Set uses a linear probing collision resolution strategy.
 * StudentHashSetTester.java was used to test the implementation
+
+### Set using Binary Tree
+
+StudentTreeSet.java was built with a binary tree as its backing structure, and a comparator that allows the objects to be kept in their proper order (proper order being, alphabetically by last name, then first name, then ID number).
+
+### Max Heap 
+
+### Graph Maze
+
 
 
 
