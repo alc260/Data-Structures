@@ -31,8 +31,12 @@ StudentTreeSet.java was built with a binary tree as its backing structure, and a
 
 ## Max Heap 
 
+MaxHeap.java is a complete MaxHeap and implements a heapsort algorithm.
+
 ## Graph Maze
 
+The Graph.java implementation allows you to load the edges of your graph as a single String; for instance, to represent this undirected, unweighted graph: You can represent this graph with this String: A,B;A,D;B,C;B,F;C,F;D,E;E,H;F,G;G,H
+*  the getShortestPath method - this method should find the shortest path between the two specified nodes; if no path exists, it returns null.
 
 
 
