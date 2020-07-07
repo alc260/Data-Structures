@@ -24,5 +24,8 @@ The following implement the IntSorter interface:
 * SelectionSorter.java
 * MergeSorter.java
 
+### Hashing
+
+
 
 
