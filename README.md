@@ -2,20 +2,11 @@
 
 ### Basic Structures 
 
-StringArrayList.java
-- implements a basic List of String objects, backed by an array
-
-ArrayStack.java
-- implements a stack backed by an array
-
-LinkedStack.java
-- implement a stack backed by a linked chain of objects (Nodes)
-
-ArrayQueue.java
-- implements a queue backed by an array 
-
-LinkedQueue.java
-- implemenets a queue backed by a linked chain of objects (Nodes)
+StringArrayList.java: a basic List of String objects, backed by an array
+ArrayStack.java: a stack backed by an array
+LinkedStack.java: a stack backed by a linked chain of objects (Nodes)
+ArrayQueue.java: a queue backed by an array 
+LinkedQueue.java: a queue backed by a linked chain of objects (Nodes)
 
 ### Sorting Algorithms 
 
