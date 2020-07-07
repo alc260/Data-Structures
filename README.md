@@ -23,6 +23,7 @@ A hashCode method was implemented for the following:
 
 StudentHashSet.java: class is used for storing Student objects
 * This Hash Set uses a linear probing collision resolution strategy.
+* StudentHashSetTester.java was used to test the implementation
 
 
 
