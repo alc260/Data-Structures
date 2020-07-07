@@ -17,6 +17,13 @@ The following implement the IntSorter interface:
 
 ### Hashing
 
+A hashCode method was implemented for the following:
+* ProductRecord.java
+* Student.java
+
+StudentHashSet.java: class is used for storing Student objects
+* This Hash Set uses a linear probing collision resolution strategy.
+
 
 
 
